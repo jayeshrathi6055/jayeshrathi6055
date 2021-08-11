@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jayeshrathi6055
-- 👀 I’m interested in AI/ML, Full Stack developer.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on AI/ML.
+- 👋 Hi, I’m Jayesh Rathi
+- 👀 I’m interested in AI/ML, Full Stack Programming.
+- 🌱 I’m currently learning Advance Machine Learning.
+- 💞️ I’m looking to collaborate on Full Stack Programming.
 - 📫 Through my E-Mail ID(jayeshrathi6055@gmail.com) you can reach me.
 
 <!---
